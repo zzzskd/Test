@@ -6,3 +6,11 @@ Test for markdown
 宫本武藏哇哇哇 | 男
 小蓝 | 男
 fjdghs | dfhgdsjg
+
+`c
+#include <stdio.h>
+int main()
+{
+   printf("hello");
+}
+`

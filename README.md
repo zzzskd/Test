@@ -7,10 +7,10 @@ Test for markdown
 小蓝 | 男
 fjdghs | dfhgdsjg
 
-`c
+```c
 #include <stdio.h>
 int main()
 {
    printf("hello");
 }
-`
+```
